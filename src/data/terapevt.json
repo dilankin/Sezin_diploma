@@ -1,0 +1,28 @@
+{
+    "terapevt": [
+        {
+            "name": "Daria Alexandrovna Panova",
+            "master": "Master of Psychology, Psychoanalyst",
+            "desc": "The specialist confirmed his qualification in psychology Can only consult adults",
+            "image": "user1"
+        },
+        {
+            "name": "Daria Alexandrovna Panova",
+            "master": "Master of Psychology, Psychoanalyst",
+            "desc": "The specialist confirmed his qualification in psychology Can only consult adults",
+            "image": "user2"
+        },
+        {
+            "name": "Daria Alexandrovna Panova",
+            "master": "Master of Psychology, Psychoanalyst",
+            "desc": "The specialist confirmed his qualification in psychology Can only consult adults",
+            "image": "user3"
+        },
+        {
+            "name": "Daria Alexandrovna Panova",
+            "master": "Master of Psychology, Psychoanalyst",
+            "desc": "The specialist confirmed his qualification in psychology Can only consult adults",
+            "image": "user1"
+        }
+    ]
+}

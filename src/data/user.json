@@ -1,0 +1,30 @@
+{
+    "user": [
+        {
+            "id": 0,
+            "name": "Dauren",
+            "surname": "Amankulov",
+            "email": "daur.d.rose@gmail.com",
+            "password": "Dauren123",
+            "image": "MyProfile",
+            "type": "admin",
+            "age": 20,
+            "city": "Алматы",
+            "tel": "+7 747 632 89 76",
+            "sex": "Мужчина"
+        },
+        {
+            "id": 0,
+            "name": "Adil",
+            "surname": "Amankulov",
+            "email": "adiladil9899@gmail.com",
+            "password": "Adil123",
+            "image": "MyProfile",
+            "type": "AdilProfile",
+            "age": 24,
+            "city": "Алматы",
+            "tel": "+7 747 726 6247",
+            "sex": "Мужчина"
+        }
+    ]
+}
